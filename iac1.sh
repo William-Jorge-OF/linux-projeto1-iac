@@ -5,7 +5,7 @@ echo "Criando diretorios"
 mldir /publico
 mkdir /adm
 mkdir /ven
-mkdir / sec
+mkdir /sec
 
 echo " Criando grupo de usuários"
 
